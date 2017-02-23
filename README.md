@@ -6,7 +6,7 @@ improve their skills but because it's simply fun to code.
 365 days of code is nothing but simple log based procedure where you devote atleast an hour to code and update the log on this repo. 
 
 # Rules 
-1.You can work on anything and everthing because the main aim of doing this is to devlope consistency.
+1.You can work on anything and everthing because the main aim of doing this is to devlope consistency.<br>(I would prefer set a To-Do list on the things you would like to work on like "I would work mainly in web dev with stack Python and Java Script and a bit of competitive coding using Python/C")
 
 2.Just for the repo and get started.
 

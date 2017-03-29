@@ -23,3 +23,15 @@
 
   Note: Work on JS DOM structure or projrct and fill the cms repo.  
 
+# Day 3: 29 March 2017 
+
+  Progress Report: worked on angular two way data binding  
+
+  
+  Link to work: File uploaded in the repo 
+
+
+  Comment/Things to ponder on: Work on basics mainly DS and Algo  
+
+
+  Note: Figure a way to use two way binding to solve grok project problem.  

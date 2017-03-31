@@ -35,3 +35,20 @@
 
 
   Note: Figure a way to use two way binding to solve grok project problem.  
+  
+  
+ # Day 4 : 30 March 2017
+ 
+  Progress Report: No actual code written although read about some usefull link like a book clalled Grokking Algorithms  
+
+  
+  Link to work: None! 
+
+
+  Comment/Things to ponder on: Don't repeat this.   
+
+
+  Note: Stay focused and find a way to be consistent.   
+  
+ 
+  

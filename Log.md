@@ -50,5 +50,20 @@
 
   Note: Stay focused and find a way to be consistent.   
   
- 
+# Day 3: 31 March 2017 
+
+
+  Progress Report: Finished some hackerrank challenges and cmd commands 
+
+  
+  Link to work: updated repo for cmd and 30 days of code 
+
+
+  Comment/Things to ponder on: DOn't lenghten your code 
+
+
+  Note: Stay focused on the basics. 
+
+
+
   

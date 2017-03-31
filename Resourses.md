@@ -2,3 +2,7 @@ This file contains all the resourses(blogs,tutorial,code snippet) that I found i
 
 Book link for Python Basics : http://pymbook.readthedocs.io/en/latest/index.html
 
+Code Visulization : http://pythontutor.com/
+
+
+

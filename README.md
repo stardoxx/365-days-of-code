@@ -17,4 +17,4 @@ time you are suppose to code whater you want, you can finish your previous incom
 
 # Note
 
-Fell free to add links to resourses that you find intresting so that others might benifit from it too.  
+Fell free to add links to resourses that you find intresting so that others might benifit from it too. Thanks ! 

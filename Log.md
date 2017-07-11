@@ -64,10 +64,9 @@
 
   Note: Stay focused on the basics. 
 
+# Restart ---------------------------------------------------------------------------------------------->
 
-<----------------------------------------- Restart ------------------------------------------------------>
-
-#Day 1: 11 July 2017 
+# Day 1: 11 July 2017 
 
 Progress Report: Studied basics of pointers and solved some problems. 
 

@@ -72,5 +72,12 @@ Progress Report: Studied basics of pointers and solved some problems.
 
 Link to work : Updated the work folder.
 
+# Day 2: 12 July 2107 
+
+Progress Report: Studied recursion,solved some problems on pointers and recursion. 
+
+Link to work : Updated the work folder.
+
+
 
   

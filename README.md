@@ -18,4 +18,8 @@ time you are suppose to code whater you want, you can finish your previous incom
 
 # Note
 
+<<<<<<< HEAD
 Fell free to add links to resourses that you find intresting so that others might benifit from it too. Thanks ! 
+=======
+Fell free to add links to resourses that you find intresting so that others might benifit from it too.
+>>>>>>> 79167066e194a859f032ed378373c3956d2b93c2
